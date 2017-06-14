@@ -1,4 +1,4 @@
-# Create the algorithm of broken glass
+# Create the algorithm to generate the process of glass breaking
 
 Using the Processing as the run time environment
 
